@@ -1,0 +1,30 @@
+code,N,variable
+300,15992,eod_primary_tumor_clean
+100,12745,eod_primary_tumor_clean
+400,12404,eod_primary_tumor_clean
+Unknown/Not documented,10429,eod_primary_tumor_clean
+200,7140,eod_primary_tumor_clean
+500,6171,eod_primary_tumor_clean
+600,3941,eod_primary_tumor_clean
+50,2070,eod_primary_tumor_clean
+700,1685,eod_primary_tumor_clean
+800,165,eod_primary_tumor_clean
+0,19,eod_primary_tumor_clean
+750,1,eod_primary_tumor_clean
+550,1,eod_primary_tumor_clean
+0,37376,eod_regional_nodes_clean
+300,24287,eod_regional_nodes_clean
+Unknown/Not documented,6625,eod_regional_nodes_clean
+800,2892,eod_regional_nodes_clean
+200,1580,eod_regional_nodes_clean
+400,1,eod_regional_nodes_clean
+550,1,eod_regional_nodes_clean
+450,1,eod_regional_nodes_clean
+0,55470,eod_mets_clean
+20,7319,eod_mets_clean
+40,3645,eod_mets_clean
+50,3160,eod_mets_clean
+70,2104,eod_mets_clean
+30,694,eod_mets_clean
+10,370,eod_mets_clean
+Unknown/Not documented,1,eod_mets_clean

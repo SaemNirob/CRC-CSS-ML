@@ -1,0 +1,10 @@
+Item,Statement
+Terminology,"The primary analysis is a fixed-horizon (36-month) CRC cancer-specific survival risk classification. Cox PH, Aalen-Johansen, IPCW and censoring-bound analyses are secondary companion checks."
+Class imbalance,Training negative:positive ratio 0.40:1 (CRC death : 3-year survivor). Class weighting was used for all five model families; no resampling.
+CV reuse,"Model selection and hyperparameter tuning used the same 5-fold CV on 2018-2019 data (no nested CV), so the training-CV AUC may be slightly optimistic. The 2020 test set was not used for selection, tuning, thresholds, calibrators or the conformal quantile."
+Patient independence,210 patients had records in both a training year and 2020 in the raw extract; after keeping first primaries 0 remained. Zero overlap between train and test patients was asserted.
+Pandemic,"2020 coincides with COVID-19 related disruption of screening and care, so the temporal test also reflects a pandemic-era distribution shift."
+Nodal missingness,"Complete nodal information (nodes examined with a known count) was available for 63.7% of the 2020 test cohort; 36.3% had no nodes examined, an unknown nodal status or an unspecified count. The 36-month CRC death rate was 19.9% in the complete-case group and 54.7% in the remainder, so nodal documentation is related to outcome and the missingness is unlikely to be random. The complete-case comparison is a same-population check (full vs complete-case-trained model on the same rows), not evidence that the complete-case subset represents the whole cohort."
+Pretreatment label,"The pretreatment-only model still contains variables derived from pathology or combined clinical/pathological staging (see pretreatment_set_caveats.csv); it approximates, not equals, a strictly pretreatment model."
+Censoring,"Patients censored before 36 months were excluded from the primary analysis (9.2-13.1% by year, highest in 2020). Best/worst-case AUCs were 0.891 and 0.821; the headline lies outside these bounds."
+Interpretation,SHAP values describe how the fitted model uses the inputs; they are not causal effects.

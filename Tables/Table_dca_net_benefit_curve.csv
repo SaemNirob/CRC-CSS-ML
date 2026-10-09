@@ -1,0 +1,169 @@
+Threshold,Net benefit,Model
+0.05,0.297742734,Full model
+0.06,0.29323115,Full model
+0.07,0.289067907,Full model
+0.08,0.285240357,Full model
+0.09,0.281304913,Full model
+0.1,0.27687639,Full model
+0.11,0.273484199,Full model
+0.12,0.270178803,Full model
+0.13,0.266392313,Full model
+0.14,0.264034404,Full model
+0.15,0.260702659,Full model
+0.16,0.25814254,Full model
+0.17,0.255718385,Full model
+0.18,0.252886641,Full model
+0.19,0.250618731,Full model
+0.2,0.24791554,Full model
+0.21,0.245251738,Full model
+0.22,0.242851299,Full model
+0.23,0.23995479,Full model
+0.24,0.236818385,Full model
+0.25,0.234210684,Full model
+0.26,0.23135101,Full model
+0.27,0.229298942,Full model
+0.28,0.226957014,Full model
+0.29,0.224238708,Full model
+0.3,0.221561204,Full model
+0.31,0.218640184,Full model
+0.32,0.216346409,Full model
+0.33,0.214229017,Full model
+0.34,0.211778411,Full model
+0.35,0.209725285,Full model
+0.36,0.207643208,Full model
+0.37,0.205970051,Full model
+0.38,0.204087359,Full model
+0.39,0.201463943,Full model
+0.4,0.199266871,Full model
+0.41,0.196950253,Full model
+0.42,0.194702946,Full model
+0.43,0.192417112,Full model
+0.44,0.190328105,Full model
+0.45,0.188525329,Full model
+0.46,0.185907965,Full model
+0.47,0.183401873,Full model
+0.48,0.181123546,Full model
+0.49,0.179361216,Full model
+0.5,0.176807283,Full model
+0.51,0.174253044,Full model
+0.52,0.171842137,Full model
+0.53,0.170543595,Full model
+0.54,0.168332275,Full model
+0.55,0.16549987,Full model
+0.56,0.162901323,Full model
+0.57,0.159928266,Full model
+0.58,0.157474654,Full model
+0.59,0.154779336,Full model
+0.6,0.152672616,Full model
+0.05,0.293015191,TNM + age/sex/site
+0.06,0.287678983,TNM + age/sex/site
+0.07,0.282699551,TNM + age/sex/site
+0.08,0.277982223,TNM + age/sex/site
+0.09,0.273540593,TNM + age/sex/site
+0.1,0.269074375,TNM + age/sex/site
+0.11,0.264926076,TNM + age/sex/site
+0.12,0.261466067,TNM + age/sex/site
+0.13,0.257988164,TNM + age/sex/site
+0.14,0.254044717,TNM + age/sex/site
+0.15,0.24981442,TNM + age/sex/site
+0.16,0.246731395,TNM + age/sex/site
+0.17,0.243245562,TNM + age/sex/site
+0.18,0.239251496,TNM + age/sex/site
+0.19,0.235562767,TNM + age/sex/site
+0.2,0.232422931,TNM + age/sex/site
+0.21,0.229225285,TNM + age/sex/site
+0.22,0.22626229,TNM + age/sex/site
+0.23,0.223287889,TNM + age/sex/site
+0.24,0.220088146,TNM + age/sex/site
+0.25,0.217925605,TNM + age/sex/site
+0.26,0.215320919,TNM + age/sex/site
+0.27,0.212388654,TNM + age/sex/site
+0.28,0.210451595,TNM + age/sex/site
+0.29,0.207175177,TNM + age/sex/site
+0.3,0.204982101,TNM + age/sex/site
+0.31,0.202912921,TNM + age/sex/site
+0.32,0.200407746,TNM + age/sex/site
+0.33,0.198583879,TNM + age/sex/site
+0.34,0.196243124,TNM + age/sex/site
+0.35,0.193177879,TNM + age/sex/site
+0.36,0.190846403,TNM + age/sex/site
+0.37,0.187671156,TNM + age/sex/site
+0.38,0.184954669,TNM + age/sex/site
+0.39,0.182558435,TNM + age/sex/site
+0.4,0.179947119,TNM + age/sex/site
+0.41,0.177264088,TNM + age/sex/site
+0.42,0.175383712,TNM + age/sex/site
+0.43,0.173007221,TNM + age/sex/site
+0.44,0.169840841,TNM + age/sex/site
+0.45,0.167346805,TNM + age/sex/site
+0.46,0.1653246,TNM + age/sex/site
+0.47,0.163128293,TNM + age/sex/site
+0.48,0.160852713,TNM + age/sex/site
+0.49,0.157919667,TNM + age/sex/site
+0.5,0.155895078,TNM + age/sex/site
+0.51,0.1535064,TNM + age/sex/site
+0.52,0.150768433,TNM + age/sex/site
+0.53,0.148303281,TNM + age/sex/site
+0.54,0.145670202,TNM + age/sex/site
+0.55,0.142839974,TNM + age/sex/site
+0.56,0.140510022,TNM + age/sex/site
+0.57,0.137871508,TNM + age/sex/site
+0.58,0.13474465,TNM + age/sex/site
+0.59,0.131501537,TNM + age/sex/site
+0.6,0.128718226,TNM + age/sex/site
+0.05,0.291093811,TNM/stage only
+0.06,0.284614263,TNM/stage only
+0.07,0.274999952,TNM/stage only
+0.08,0.267906271,TNM/stage only
+0.09,0.263558958,TNM/stage only
+0.1,0.259068966,TNM/stage only
+0.11,0.254497826,TNM/stage only
+0.12,0.248608994,TNM/stage only
+0.13,0.247769323,TNM/stage only
+0.14,0.243681898,TNM/stage only
+0.15,0.240633517,TNM/stage only
+0.16,0.237745414,TNM/stage only
+0.17,0.234601467,TNM/stage only
+0.18,0.231075246,TNM/stage only
+0.19,0.228240379,TNM/stage only
+0.2,0.225527312,TNM/stage only
+0.21,0.223961293,TNM/stage only
+0.22,0.220246102,TNM/stage only
+0.23,0.217385553,TNM/stage only
+0.24,0.214214891,TNM/stage only
+0.25,0.20994832,TNM/stage only
+0.26,0.206411793,TNM/stage only
+0.27,0.204048961,TNM/stage only
+0.28,0.20046121,TNM/stage only
+0.29,0.196180146,TNM/stage only
+0.3,0.194146128,TNM/stage only
+0.31,0.192584188,TNM/stage only
+0.32,0.190569359,TNM/stage only
+0.33,0.188157374,TNM/stage only
+0.34,0.185978225,TNM/stage only
+0.35,0.183498357,TNM/stage only
+0.36,0.180897332,TNM/stage only
+0.37,0.178720945,TNM/stage only
+0.38,0.176407474,TNM/stage only
+0.39,0.173882944,TNM/stage only
+0.4,0.165990626,TNM/stage only
+0.41,0.163708127,TNM/stage only
+0.42,0.161426183,TNM/stage only
+0.43,0.158728916,TNM/stage only
+0.44,0.156300703,TNM/stage only
+0.45,0.153928413,TNM/stage only
+0.46,0.151949001,TNM/stage only
+0.47,0.147964564,TNM/stage only
+0.48,0.145064553,TNM/stage only
+0.49,0.142706533,TNM/stage only
+0.5,0.140255994,TNM/stage only
+0.51,0.137104815,TNM/stage only
+0.52,0.129705997,TNM/stage only
+0.53,0.127584778,TNM/stage only
+0.54,0.125410524,TNM/stage only
+0.55,0.123380005,TNM/stage only
+0.56,0.120675386,TNM/stage only
+0.57,0.117863836,TNM/stage only
+0.58,0.115345489,TNM/stage only
+0.59,0.115739336,TNM/stage only
+0.6,0.11321435,TNM/stage only

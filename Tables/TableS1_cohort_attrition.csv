@@ -1,0 +1,11 @@
+Step,Before N,Excluded,Remaining N,Note
+Raw SEER export,104092.0,0.0,104092.0,"Malignant behaviour, known age and colon/rectum (excl. appendix) were applied in SEER*Stat"
+"Strict C18-C20 sites, appendix (C18.1) excluded",104092.0,0.0,104092.0,
+First primary only (Sequence number),104092.0,20473.0,83619.0,kept: One primary only; 1st of 2 or more primaries
+Drop residual train/test patient overlap,83619.0,0.0,83619.0,0 overlapping patients after first-primary filter
+Missing survival months or unknown cause of death,83619.0,1924.0,81695.0,
+Undefined 3-year target (censored before 36 months),81695.0,8932.0,72763.0,"alive with <36 months follow-up, or non-CRC death (competing risk); kept for secondary analyses"
+Overlap check: raw extract,,,,210 patients with records in both train years and 2020
+Overlap check: after site filter,,,,210 patients
+Overlap check: after first-primary filter,,,,0 patients
+Overlap check: final,,,,0 patients (asserted below)

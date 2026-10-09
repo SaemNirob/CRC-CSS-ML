@@ -1,0 +1,5 @@
+Metric,Value
+SHAP sample size,2000.0
+Mean abs gap,1.5430465065413568e-15
+Max abs gap,1.1546319456101628e-14
+Relative gap,7.220845283580348e-16

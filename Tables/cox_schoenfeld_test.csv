@@ -1,0 +1,16 @@
+index,test_statistic,p,#REF!
+age_numeric,519.2171333,6.26E-115,379.3746022
+grade_clean_Grade 2,74.26768967,6.82E-18,57.02470466
+grade_clean_Grade 3,3.406638447,0.064934598,3.944868815
+grade_clean_Grade 4,13.23257958,0.000275125,11.82762558
+grade_clean_Unknown/indeterminate grade,86.54906034,1.36E-20,65.99163426
+race_clean_Asian or Pacific Islander,2.365596752,0.124036473,3.011163682
+race_clean_Black,1.615720255,0.203689571,2.295555979
+race_clean_Unknown/Not documented,0.123949892,0.72478938,0.464366278
+race_clean_White,9.20004702,0.002420089,8.690724116
+sex_clean_Male,8.90051102,0.002850909,8.454362498
+stage_group_clean_Stage I,24.21211285,8.63E-07,20.14433869
+stage_group_clean_Stage II,0.678521122,0.410096436,1.28596489
+stage_group_clean_Stage III,98.58121078,3.12E-23,74.76296121
+stage_group_clean_Stage IV,29.52408184,5.52E-08,24.11007104
+stage_group_clean_Unknown/unstaged,76.28945129,2.45E-18,58.50198824

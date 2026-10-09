@@ -1,0 +1,8 @@
+Variable(s),Why it is not strictly pretreatment
+pni_clean,perineural invasion comes from the pathology report
+grade_clean,derived summary grade usually needs biopsy/resection pathology
+histology_clean,final histology may reflect the resection specimen
+t_stage_clean / n_stage_clean / m_stage_clean / stage_group_clean / summary_stage_clean,SEER derived EOD stage combines clinical and pathological information
+eod_primary_tumor_clean / eod_regional_nodes_clean / eod_mets_clean,EOD recodes (incl. regional nodes) can include pathological findings
+tumor_size_mm / tumor_size_special,tumor size summary can be taken from the pathology report
+cea_clean,pretreatment lab value (genuinely pretreatment)

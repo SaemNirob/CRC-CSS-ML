@@ -1,0 +1,27 @@
+Feature,Type,N missing/unknown,N total,% missing,> 30% missing
+cea_clean,Categorical,28005,72763,38.49,True
+tumor_deposits_clean,Categorical,27479,72763,37.77,True
+pni_clean,Categorical,26854,72763,36.91,True
+node_ratio,Numeric,25048,72763,34.42,True
+regional_nodes_positive,Numeric,24953,72763,34.29,True
+tumor_size_mm,Numeric,15891,72763,21.84,False
+tumor_size_special,Categorical,15757,72763,21.66,False
+eod_primary_tumor_clean,Categorical,10429,72763,14.33,False
+eod_regional_nodes_clean,Categorical,6625,72763,9.1,False
+race_clean,Categorical,1005,72763,1.38,False
+regional_nodes_examined,Numeric,818,72763,1.12,False
+t_stage_clean,Categorical,631,72763,0.87,False
+m_stage_clean,Categorical,631,72763,0.87,False
+n_stage_clean,Categorical,631,72763,0.87,False
+nodal_assessment,Categorical,603,72763,0.83,False
+diagnostic_confirmation_clean,Categorical,549,72763,0.75,False
+age_numeric,Numeric,0,72763,0.0,False
+sex_clean,Categorical,0,72763,0.0,False
+summary_stage_clean,Categorical,0,72763,0.0,False
+grade_clean,Categorical,0,72763,0.0,False
+histology_clean,Categorical,0,72763,0.0,False
+site_recode_clean,Categorical,0,72763,0.0,False
+hispanic_origin_clean,Categorical,0,72763,0.0,False
+site_group,Categorical,0,72763,0.0,False
+stage_group_clean,Categorical,0,72763,0.0,False
+eod_mets_clean,Categorical,1,72763,0.0,False

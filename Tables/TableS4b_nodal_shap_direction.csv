@@ -1,0 +1,8 @@
+Feature,"Mean SHAP(death), low third","Mean SHAP(death), high third","Mean SHAP(death), when present",N in sample
+regional_nodes_positive,-0.03438926347106642,-0.013637046501569352,,
+regional_nodes_examined,0.35825181445928345,-0.4240441256660331,,
+node_ratio,-0.06267460295726739,-0.0012277839130287215,,
+"nodal_assessment_Examined, count known",,,-0.10144240824079975,1264.0
+"nodal_assessment_Examined, count unspecified",,,-0.031109095044816196,8.0
+nodal_assessment_No nodes examined,,,0.11709121232543467,704.0
+nodal_assessment_Unknown,,,0.0,24.0

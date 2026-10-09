@@ -1,0 +1,10 @@
+Analysis (SECONDARY),Value,N
+"Cox PH concordance, 2020 full censored cohort",0.8100692695127275,25526.0
+Cox PH 3-year AUC on analytic test rows,0.8598567400510648,22188.0
+IPCW Brier @36 mo (scikit-survival),0.09950498383730288,25526.0
+IPCW Brier @36 mo (manual reverse-KM),0.09938640745059332,25526.0
+Time-dependent AUC @36 mo,0.9092215516946086,25526.0
+Headline AUC (analytic test set),0.9103966346515175,22188.0
+Best-case censoring bound AUC,0.89094428821841,25526.0
+Worst-case censoring bound AUC,0.8214275606991422,25526.0
+Headline inside best/worst bounds,0.0,
